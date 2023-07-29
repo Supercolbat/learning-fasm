@@ -19,7 +19,7 @@ If you aren't, then make sure you have `fasm` installed using your friendly loca
 
 ## Projects
 
-### Guess the number
+### Guess the number <kbd>IO</kbd> <kbd>Control flow</kbd>
 
 The classic "Guess a number from 1 to 100" game. There are two versions:
 
